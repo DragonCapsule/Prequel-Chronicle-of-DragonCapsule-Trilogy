@@ -1,4 +1,8 @@
-# Ancient-China Sinking
+---
+description: all
+---
+
+# Fall of Ancient-China
 
 From 304 AD to 439 AD, after the Eight Kings Rebellion, the Western Jin Dynasty lost control of the world, and the nomadic people outside the Great Wall took advantage of the Eight Kings Rebellion in the late Western Jin Dynasty, and successively established non-Han regimes, forming a confrontation with the Han people in the south. The five Hu tribes, including the Huns, the Xianbei, the Jie, the Qiang, and the Di, are known as the “the chaos of the Five Barbarians” in history, and they have opened up the darkest and bloodiest side of ancient china history.
 
