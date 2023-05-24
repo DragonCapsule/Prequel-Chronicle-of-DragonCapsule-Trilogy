@@ -6,7 +6,7 @@ As the night grew chilly, a loud shout came from General Ran Min's tent in the m
 
 The other generals responded with a resounding cheer. White Eyebrows, a warrior with a face like jade and a tall, slender figure, remained silent. After a moment, he bowed and slowly backed out of the commander's tent.
 
-White Eyebrows walked to the stable and led out a black, swift horse. He then said farewell to the guards and spurred the horse towards the foot of Mount Wawu. His eyes glinted in the moonlight as he rode off on his mission, looking every bit like a gallant scholar in white robes.
+e then said farewell to the guards and spurred the horse towards the foot of Mount Wawu. His eyes glinted in the moonlight as he rode off on his mission, looking every bit like a gallant scholar in white robes.
 
 He looked up at the moon and his eyes shone in the silver light. He walked to the stable and led out a black, swift horse. After bidding farewell to the guards, he spurred the horse towards the foot of Mount Wawu.
 
