@@ -40,9 +40,4 @@ The intelligence clearly and accurately reveals that the scale and strategic pot
 
 An unprecedented storm of Earth civilization evolution has quietly begun...
 
-
-
-
-
-![](<../.gitbook/assets/截屏2022-02-05 下午5.46.17.png>)
-
+<figure><img src="../.gitbook/assets/headofgolf copy (2).jpg" alt=""><figcaption></figcaption></figure>
