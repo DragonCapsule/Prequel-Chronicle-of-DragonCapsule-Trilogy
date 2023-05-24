@@ -2,7 +2,7 @@
 
 **"Sands stretch out to the horizon,**&#x20;
 
-**the yellow sky above.**&#x20;
+**Above is the yellow sky,**
 
 **Heroes' names are buried for fifty years.**&#x20;
 
