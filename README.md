@@ -1,5 +1,5 @@
 ---
-description: 'Authors:  YieldDAO Labs   Author  iamliqiang@gmail.com'
+description: 'Issuer:  YieldDAO Labs   Author  iamliqiang@gmail.com'
 cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
