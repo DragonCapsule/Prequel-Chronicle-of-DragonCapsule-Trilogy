@@ -10,7 +10,7 @@
 
 **The general's golden armor is never removed at night."**
 
-&#x20;_-- A tribute to the swordsmiths who forged the Republic's sword._
+&#x20;_-- Tribute to the swordsmiths of the Republic._
 
 
 
