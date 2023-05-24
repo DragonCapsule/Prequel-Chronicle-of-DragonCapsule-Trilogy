@@ -14,7 +14,7 @@ DragonCapsule is the world's first Metaverse sci-fi IP, with dragon culture as t
 {% endhint %}
 
 \
-In the 1.98 million years of the Cosmic Era gamma Gamma, the Dragon civilization was defeated in the multi-dimensional parallel universe war, and the Dragon Continent fell.&#x20;
+In the 1.98 million years of the Cosmic Gamma Era , the Dragon civilization was defeated in the multi-dimensional parallel universe war, and the Dragon Continent fell.&#x20;
 
 A superluminal curvature spacecraft carrying the blood of the Dragon family escaped the two-dimensional battlefield, and together with the 10,000 DragonCapsules on the spacecraft, it accidentally fell into the Earth's Arctic Ocean.&#x20;
 
