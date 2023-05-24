@@ -14,7 +14,7 @@
 
 ## 1. Falls To Earth
 
-* [Falls To Earth (1.98 million years of the Gamma period)](1.-falls-to-earth/falls-to-earth-1.98-million-years-of-the-gamma-period.md)
+* [Falls To Earth (1.98 million years of the Gamma Era)](1.-falls-to-earth/falls-to-earth-1.98-million-years-of-the-gamma-era.md)
 
 ## 2. The Prequel of Shu Mountain (309 AD)
 
