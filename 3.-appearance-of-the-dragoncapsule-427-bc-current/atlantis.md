@@ -10,8 +10,8 @@
 
 ![three-eyed sea king  三眼海王](../.gitbook/assets/129.png)
 
-Arthur Curry, the son of the legendary fisherman, the prototype incarnation of Poseidon, the sea king in history, Arthur discovered the DC sea-wave-head on the bottom of the Atlantic Ocean while fishing inadvertently activated it with blood, and formed a DC Symbiont(called Sea-wave-head), The activated sea-wave-head is a giant Native form of Nature DragonCapsule, with more than 2 kilometers of body size, like an unsinkable island.
+Arthur Curry, the son of the legendary fisherman, the prototype incarnation of Poseidon, the sea king in history, Arthur discovered the DC sea-wave-head on the bottom of the Atlantic Ocean while fishing inadvertently activated it with blood, and formed a DC Symbiont(called Seawave-head), The activated seawave-head is a giant Native form of Nature DragonCapsule, with more than 2 kilometers of body size, like an unsinkable island.
 
-Arthur refers to the sea-wave-head as Atlantis in the history books. The legendary story of Arthur and the sea-wave-head has lasted for more than 300 years. With the accidental death of Arthur's beloved lover in the struggle of the empire, the glorious Atlantis civilization sunk into the depths of the Atlantic Ocean along with Arthur's sad slumber.
+Arthur refers to the seawave-head as Atlantis in the history books. The legendary story of Arthur and the seawave-head has lasted for more than 300 years. With the accidental death of Arthur's beloved lover in the struggle of the empire, the glorious Atlantis civilization sunk into the depths of the Atlantic Ocean along with Arthur's sad slumber.
 
 ![](<../.gitbook/assets/2 (1).jpeg>)
