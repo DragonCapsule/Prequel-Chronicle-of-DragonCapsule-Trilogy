@@ -18,7 +18,7 @@
 
 ## 2. The Prequel of Shu Mountain (309 AD)
 
-* [Ancient China Sinking](2.-the-prequel-of-shu-mountain-309-ad/ancient-china-sinking.md)
+* [Ancient-China Sinking](2.-the-prequel-of-shu-mountain-309-ad/ancient-china-sinking.md)
 * [The first appearance of Shu-Mount](2.-the-prequel-of-shu-mountain-309-ad/the-first-appearance-of-shu-mount.md)
 
 ## 3. Appearance of the DragonCapsule (427 BC—Current)
