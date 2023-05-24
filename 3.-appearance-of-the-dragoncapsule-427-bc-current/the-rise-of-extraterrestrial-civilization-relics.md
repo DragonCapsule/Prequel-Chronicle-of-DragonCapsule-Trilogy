@@ -1,6 +1,6 @@
 # The Rise of Extraterrestrial-Civilization-Relics
 
-The appearance and invisibility of the Phantom of the Gulf, along with the activation of its dark matter engine, and triggered faint vibrations in the universe of the same-string dark matter. The infrasound giant waves calling for the same kind from the DC seawave-head soon reached Mount Emei.
+The appearance and invisibility of the Phantom of Gulf, along with the activation of its dark matter engine, and triggered faint vibrations in the universe of the same-string dark matter. The infrasound giant waves calling for the same kind from the DC seawave-head soon reached Mount Emei.
 
 Above the Golden Summit of Emei,  the legendary Shu Mountain suddenly appeared - a black towering peak over 2,000 meters high and wide.
 
