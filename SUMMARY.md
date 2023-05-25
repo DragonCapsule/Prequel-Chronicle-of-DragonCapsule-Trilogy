@@ -65,7 +65,7 @@
 * [Troy Project](di-er-juan.zi-yuan-fen-bu/troy-project.md)
 * [Fengshen-bang plan](di-er-juan.zi-yuan-fen-bu/fengshen-bang-plan.md)
 * [Katyusha Project](di-er-juan.zi-yuan-fen-bu/katyusha-project.md)
-* [CubeMan](di-er-juan.zi-yuan-fen-bu/cubeman.md)
+* [Knight](di-er-juan.zi-yuan-fen-bu/knight.md)
 
 ## 9. Shadows of Heaven (2035) <a href="#di-er-juan.tian-tang-yin-ying" id="di-er-juan.tian-tang-yin-ying"></a>
 
