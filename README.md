@@ -6,7 +6,7 @@ coverY: 0
 
 # Prequel Chronicles Of DragonCapsule Trilogy
 
-#### _<mark style="color:orange;">点击阅读中文版 -->--></mark>_[_《龙胶囊三部曲-前传编年史》_](https://dragoncapsule.gitbook.io/3story/)
+#### _<mark style="color:orange;">中文版 -->--></mark>_[_《龙胶囊三部曲-前传编年史》_](https://dragoncapsule.gitbook.io/3story/)
 
 {% embed url="https://youtu.be/BVOjItpgmUU" %}
 
