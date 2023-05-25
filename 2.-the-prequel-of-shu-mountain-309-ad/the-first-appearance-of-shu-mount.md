@@ -4,7 +4,9 @@
 
 As the night grew chilly, a loud shout came from General Ran Min's tent in the main camp: "The barbarians fear power but have no gratitude. My mind is made up. Let the 'Kill the Barbarians' edict be spread throughout the land. All heroes of the world shall join forces to exterminate these savage beasts!"
 
-The other generals responded with a resounding cheer. White Eyebrows, a warrior with a face like jade and a tall, slender figure, remained silent. After a moment, he bowed and slowly backed out of the commander's tent.
+The other generals responded with a resounding cheer. White Eyebrows, a warrior with a long face like a crown jade and a tall, straight figure, remained silent. After a moment, he bowed and slowly backed out of the commander's tent.
+
+
 
 He looked up at the moon and his eyes shone in the silver light. He walked to the stable and led out a black, swift horse. After bidding farewell to the guards, he spurred the horse towards the foot of Mount Wawu.
 
