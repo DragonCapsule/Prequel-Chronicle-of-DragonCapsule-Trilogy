@@ -48,7 +48,16 @@ coverY: 0
 
 1\. Website: [https://yielddao.io/](https://yielddao.io/)&#x20;
 
-2\. Twitter : [https://twitter.com/www\_yielddao\_io](https://twitter.com/www\_yielddao\_io)
+2\. Twitter : [https://twitter.com/www\_yielddao\_io](https://twitter.com/www\_yielddao\_io)\
 
-3\. 中文版 : [https://dragoncapsule.gitbook.io/3story](https://dragoncapsule.gitbook.io/3story)
+
+### **`.NFT MarketPlace`**
+
+OpenSea : [https://opensea.io/collection/dragoncapsule](https://opensea.io/collection/dragoncapsule)
+
+
+
+### **`.Chinese Version（中文版）`**
+
+中文版 : [https://dragoncapsule.gitbook.io/3story](https://dragoncapsule.gitbook.io/3story)
 
