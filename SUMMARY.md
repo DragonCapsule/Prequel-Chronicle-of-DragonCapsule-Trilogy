@@ -32,7 +32,7 @@
 
 * [Flashback to Lop Nor - 1964](4.-1964-ad/flashback-to-lop-nor-1964.md)
 * [Lei Zhenzi - Thunder](4.-1964-ad/lei-zhenzi-thunder.md)
-* [Fengshen Bang](4.-1964-ad/fengshen-bang.md)
+* [Fengshen Bang (Gods List)](4.-1964-ad/fengshen-bang-gods-list.md)
 
 ## 5. The Iron Curtain Rises
 
