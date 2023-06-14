@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/DC-logo-whole的副本.png
 coverY: 0
 ---
 
-# The Truth of Consciousness (2912)
+# The Truth of Consciousness (2845)
 
 In 2835, the emergence of biological brain holographic cloning and printing technology allowed the complete copying of all human brain information. For the first time, human memory information was replicated on a clone, laying a solid physical foundation for the transfer of brain consciousness.
 

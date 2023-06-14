@@ -71,7 +71,7 @@
 
 * [Shadow of heaven](di-er-juan.tian-tang-yin-ying/shadow-of-heaven.md)
 
-## 10. The Third World War (The First Metaverse World War) <a href="#di-er-juan.di-yi-chi-yuan-yu-zhou-war" id="di-er-juan.di-yi-chi-yuan-yu-zhou-war"></a>
+## 10. World War Three (The First Metaverse World War) <a href="#di-er-juan.di-yi-chi-yuan-yu-zhou-war" id="di-er-juan.di-yi-chi-yuan-yu-zhou-war"></a>
 
 * [World War Three(2055)](di-er-juan.di-yi-chi-yuan-yu-zhou-war/world-war-three-2055.md)
 
