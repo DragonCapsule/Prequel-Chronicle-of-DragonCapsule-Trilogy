@@ -110,11 +110,11 @@
 
 ## 17. Breakthrough Quadrant <a href="#di-san-juan.metaverse-break-neckness" id="di-san-juan.metaverse-break-neckness"></a>
 
-* [Breakthrough Quadrant (2845)](di-san-juan.metaverse-break-neckness/breakthrough-quadrant-2845.md)
+* [Breakthrough Quadrant (2765)](di-san-juan.metaverse-break-neckness/breakthrough-quadrant-2765.md)
 
 ## 18. The Truth of Consciousness <a href="#di-san-juan.metaverse-mind-truth" id="di-san-juan.metaverse-mind-truth"></a>
 
-* [The Truth of Consciousness (2912)](di-san-juan.metaverse-mind-truth/the-truth-of-consciousness-2912.md)
+* [The Truth of Consciousness (2845)](di-san-juan.metaverse-mind-truth/the-truth-of-consciousness-2845.md)
 
 ## 19. EVE <a href="#di-san-juan.metaverse-mind-truth" id="di-san-juan.metaverse-mind-truth"></a>
 
