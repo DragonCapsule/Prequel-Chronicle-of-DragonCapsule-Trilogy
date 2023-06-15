@@ -4,7 +4,7 @@ cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
 
-# Prequel Chronicles Of DragonCapsule Trilogy
+# Prequel Chronicles Of DragonCapsule
 
 #### editorauthors_<mark style="color:orange;">中文版 -->--></mark>_[_《龙胶囊三部曲-前传编年史》_](https://dragoncapsule.gitbook.io/3story/)
 
@@ -38,9 +38,11 @@ coverY: 0
 
 "DragonCapsule Trilogy" is a huge metaverse sci-fi story IP composed of a multi-dimensional universe civilization and the legendary story of the earth. It is also the first true metaverse science fiction novel. The whole book is divided into three parts.
 
-* **1. "Dragon Capsule"**
-* **2. "DomeLand"**
-* **3. "Final Fantasy**
+* **1. "DragonCapsule"：**Volume I tells the story of the relics of extraterrestrial civilization-DragonCapsule has brought highly developed surreal virtual technology to the earth, which has triggered fierce competition between countries using extraterrestrial technology; after a long period of After evolution, human beings have finally entered the era of extremely developed super AI and surreal metaverse, but they are facing an evolutionary crisis of losing themselves and collapsing completely
+* **2. "DomeLand"：**Volume II tells the story of the DragonCapsule, as a super strategic resource left over from extraterrestrial civilization, which caused tearing and crisis to human society, and at the same time brought hope of rebirth; a small number of humans chose to leave the surreal metaverse, Start again, fly to the unknown superstring universe, find the parent star of extraterrestrial civilization, and explore the truth of eternal life.
+* **3. "Final Fantasy：**Volume III will bring together the characters and story lines of works I and II, telling the story of human beings merging with super AI, evolving into a galaxy intelligent form, entering the era of microscopic quantum domains, and about to open infinite parallel universes, facing an unprecedented ultimate choice...
+
+
 
 
 
