@@ -28,7 +28,7 @@ coverY: 0
 
 ### **.S**tatement
 
-1. "Prequel Chronicles of DragonCapsule Trilogy" is the leading storyline of the DragonCapsule Trilogy. It is presented in the form of a chronicle. It does not involve the development of the story or character building. The original team reserves the importance of the future stories of the "DragonCapsule Trilogy". The right to construct, add, delete and modify, and does not represent any restriction and commitment of the official original team to the creation of the "DragonCapsule trilogy" sci-fi works.
+1. "Prequel Chronicles of DragonCapsule" is the leading storyline of the DragonCapsule Trilogy. It is presented in the form of a chronicle. It does not involve the development of the story or character building. The original team reserves the importance of the future stories of the "DragonCapsule Trilogy". The right to construct, add, delete and modify, and does not represent any restriction and commitment of the official original team to the creation of the "DragonCapsule trilogy" sci-fi works.
 2. The creative team of "Prequel Chronicles of DragonCapsule Trilogy" is from the United States, China, Singapore, and Japan; through remote collaboration, the universe of DragonCapsule will be created together; with the development of the subsequent works of "DragonCapsule Trilogy", priority will be given to the country where the storyline is located. The author participates in literary re-creation.
 3. All contents of "Prequel Chronicles of DragonCapsule Trilogy" are purely fictitious and do not involve any political orientation. They are complete and independent science fiction works with independent copyright and intellectual property protection.
 
