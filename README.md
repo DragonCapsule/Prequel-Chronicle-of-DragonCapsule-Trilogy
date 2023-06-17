@@ -69,7 +69,5 @@ OpenSea : [https://pro.opensea.io/collection/dragoncapsule](https://pro.opensea.
 
 ### **`.Japaness Version（`**日本語版**`）`**
 
-中文版 : [https://dragoncapsule.gitbook.io/3story](https://dragoncapsule.gitbook.io/3story)
-
 日本語版 <mark style="color:yellow;">:</mark> [<mark style="color:yellow;">https://dragoncapsule.gitbook.io/nokapuseru/</mark>](https://dragoncapsule.gitbook.io/nokapuseru/)
 
