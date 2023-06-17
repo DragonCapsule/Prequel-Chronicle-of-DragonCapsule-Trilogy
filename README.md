@@ -8,6 +8,8 @@ coverY: 0
 
 #### _<mark style="color:orange;">中文版 -->--></mark>_[_《龙胶囊三部曲-前传编年史》_](https://dragoncapsule.gitbook.io/3story/)
 
+_<mark style="color:yellow;">**日本語版->->**</mark>_[_<mark style="color:yellow;">「</mark><mark style="color:yellow;">**龍のカプセル-前日譚年代記 」**</mark>_](https://dragoncapsule.gitbook.io/nokapuseru/)
+
 {% embed url="https://youtu.be/BVOjItpgmUU" %}
 
 
@@ -62,4 +64,12 @@ OpenSea : [https://pro.opensea.io/collection/dragoncapsule](https://pro.opensea.
 ### **`.Chinese Version（中文版）`**
 
 中文版 : [https://dragoncapsule.gitbook.io/3story](https://dragoncapsule.gitbook.io/3story)
+
+
+
+### **`.Japaness Version（`**日本語版**`）`**
+
+中文版 : [https://dragoncapsule.gitbook.io/3story](https://dragoncapsule.gitbook.io/3story)
+
+日本語版 <mark style="color:yellow;">:</mark> [<mark style="color:yellow;">https://dragoncapsule.gitbook.io/nokapuseru/</mark>](https://dragoncapsule.gitbook.io/nokapuseru/)
 
