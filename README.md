@@ -55,7 +55,7 @@ coverY: 0
 
 ### **`.NFT MarketPlace`**
 
-OpenSea : [https://opensea.io/collection/dragoncapsule](https://opensea.io/collection/dragoncapsule)
+OpenSea : [https://pro.opensea.io/collection/dragoncapsule](https://pro.opensea.io/collection/dragoncapsule)
 
 
 
