@@ -1,5 +1,5 @@
 ---
-description: 'Authors:  Nakamoto  Editor  Maxgravity'
+description: 'Authors:  Nakamoto,  Editor  Maxgravity'
 cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
