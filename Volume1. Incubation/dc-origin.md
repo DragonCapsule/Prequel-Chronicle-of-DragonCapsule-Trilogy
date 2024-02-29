@@ -14,7 +14,7 @@ A superluminal curvature spacecraft carrying the bloodline of the Divine Dragon 
 The 10,000 DragonCapsules were scattered around the world with the crash of the spacecraft.
 
 {% hint style="info" %}
-DragonCapsule (DC) is a unique collection of 10,000 NFTs named after the titular novel, distributed across the Ethereum (5,200 NFTs) and Bitcoin (4,800 NFTs) blockchain networks.
+DragonCapsule is a premier digital collection of 10,000 unique DragonCapsule NFTs, inspired by the eponymous novel, and distributed across the Ethereum (5,200 NFTs) and Bitcoin (4,800 NFTs) blockchain networks,
 
-DragonCapsule stands as the world's first Metaverse Sci-Fi IP, drawing on dragon culture as its central theme and prioritizing natural environment and ecological protection as its core inspiration. It encapsulates the Metaverse intellectual property (MetaIP) of the DragonCapsule NFTs.
+As the first Web3 Metaverse Sci-fi IP globally, it embraces the theme of dragon culture within a multi-dimensional universe and places a strong emphasis on the natural environment and ecological conservation as core elements. Furthermore, the pioneering collection exemplifies a cross-chain digital collectible that have Metaverse Intellectual Property (MetaIP) .
 {% endhint %}
