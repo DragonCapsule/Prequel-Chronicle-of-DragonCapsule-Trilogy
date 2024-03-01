@@ -8,7 +8,6 @@
 
 ## 0. Preface <a href="#qian-xu" id="qian-xu"></a>
 
-* [Origin of DragonCapsule](qian-xu/dc-origin.md)
 * [Species of DragonCapsule](qian-xu/dc-species.md)
 * [DragonCapsule Archives](qian-xu/dc-spec.md)
 
