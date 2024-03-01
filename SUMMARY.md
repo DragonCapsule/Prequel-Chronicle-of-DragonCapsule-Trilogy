@@ -6,7 +6,7 @@
 
 * [Volume 1. Incubation](<Volume1. Incubation/dc-origin.md>)
 
-## 0. Preface <a href="#qian-xu" id="qian-xu"></a>
+## 0. DragonCapsule Wiki <a href="#qian-xu" id="qian-xu"></a>
 
 * [Species of DragonCapsule](qian-xu/dc-species.md)
 * [DragonCapsule Archives](qian-xu/dc-spec.md)
