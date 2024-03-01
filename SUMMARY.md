@@ -12,9 +12,10 @@
 * [Species of DragonCapsule](qian-xu/dc-species.md)
 * [DragonCapsule Archives](qian-xu/dc-spec.md)
 
-## 1. Falls To Earth
+## 1. Falls To Earth (1.98 million years of the Gamma Era)
 
-* [Falls To Earth (1.98 million years of the Gamma Era)](1.-falls-to-earth/falls-to-earth-1.98-million-years-of-the-gamma-period.md)
+* [Orgin of DragonCapsule](1.-falls-to-earth-1.98-million-years-of-the-gamma-era/orgin-of-dragoncapsule.md)
+* [Falls To Earth](1.-falls-to-earth-1.98-million-years-of-the-gamma-era/falls-to-earth.md)
 
 ## 2. The Prequel of Shu Mountain (309 AD)
 
