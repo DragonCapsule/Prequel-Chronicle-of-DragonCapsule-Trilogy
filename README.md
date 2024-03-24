@@ -1,10 +1,10 @@
 ---
-description: 'Authors:  Nakamoto,  Editor  Maxgravity'
+description: 'authors:  matter ,  editor  nakamoto'
 cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
 
-# Prequel Chronicles Of DragonCapsule
+# Prequel Chronicles Of DragonCapsule Trilogy
 
 
 
@@ -48,24 +48,15 @@ coverY: 0
 
 ### **`.`**Official Links
 
-1\. Website: [https://yielddao.io/](https://yielddao.io/)&#x20;
+1\. Website: [https://www.dragoncapsule.xyz](https://www.dragoncapsule.xyz)
 
-2\. Twitter : [https://twitter.com/www\_yielddao\_io](https://twitter.com/www\_yielddao\_io)\
-
-
-### **`.NFT MarketPlace`**
-
-OpenSea : [https://pro.opensea.io/collection/dragoncapsule](https://pro.opensea.io/collection/dragoncapsule)
-
-
+2\. Twitter : [https://twitter.com/atomicalsDragon](https://twitter.com/atomicalsDragon)
 
 ### **`.Chinese Version（中文版）`**
 
-中文版 : [https://dragoncapsule.gitbook.io/3story](https://dragoncapsule.gitbook.io/3story)
-
-
+中文版 : [https://dragoncapsule.gitbook.io/history-zh](https://dragoncapsule.gitbook.io/history-zh)
 
 ### **`.Japaness Version（`**日本語版**`）`**
 
-日本語版 <mark style="color:yellow;">:</mark> [<mark style="color:yellow;">https://dragoncapsule.gitbook.io/nokapuseru/</mark>](https://dragoncapsule.gitbook.io/nokapuseru/)
+日本語版 <mark style="color:yellow;">:</mark>[ <mark style="color:yellow;">https://dragoncapsule.gitbook.io/history-jp</mark>](https://dragoncapsule.gitbook.io/history-jp)
 
