@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Prequel Chronicles Of DragonCapsule Trilogy](README.md)
+* [DragonCapsule Trilogy Prequel Chronicles](README.md)
 
 ## Trilogy No.1. DragonCapsule <a href="#Volume1. Incubation" id="Volume1. Incubation"></a>
 
