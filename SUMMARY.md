@@ -6,11 +6,6 @@
 
 * [Volume 1. Incubation](<Volume1. Incubation/dc-origin.md>)
 
-## 0. DragonCapsule Wiki <a href="#qian-xu" id="qian-xu"></a>
-
-* [Species of DragonCapsule](qian-xu/dc-species.md)
-* [DragonCapsule Archives](qian-xu/dc-spec.md)
-
 ## 1. Falls To Earth (1.98 million years of the Gamma Era)
 
 * [Orgin of DragonCapsule](1.-falls-to-earth-1.98-million-years-of-the-gamma-era/orgin-of-dragoncapsule.md)

@@ -16,7 +16,9 @@ As the first Web3 Metaverse Sci-fi IP globally, it embraces the theme of dragon 
 
 {% endhint %}
 
-### DragonCapsule Wiki <a href="#long-jiao-nang-qi-yuan" id="long-jiao-nang-qi-yuan"></a>
+
+
+### _Appendix I . DragonCapsule Wiki_ <a href="#long-jiao-nang-qi-yuan" id="long-jiao-nang-qi-yuan"></a>
 
 * [_**DragonCapsule Species**_](https://docs.dragoncapsule.xyz/dragoncapsule-wiki/1.-dragoncapsule-en-wiki/ii.-species-of-dragoncapsule)
 * [_**DragonCapsule Archives**_](https://docs.dragoncapsule.xyz/dragoncapsule-wiki/1.-dragoncapsule-en-wiki/iii.-dragoncapsule-archives)
