@@ -3,22 +3,34 @@ cover: ../.gitbook/assets/DC-logo-whole的副本.png
 coverY: 0
 ---
 
-# Metaverse flourishes (2100)
+# Metaverse Flourishes (2100)
 
-Entering the year 2100, with the full maturity of fully-realistic metaverse technology represented by Heaven Island, the world entered a prosperous period of the metaverse.
+Entering the year 2100, with the comprehensive maturation of Fully-Immersive Metaverse technologies represented by Paradise Island and AtomVerse, the MetaVerse is experiencing an era of unprecedented prosperity.
 
-The Earth's metaverse has countless different regions and parallel worlds, each of which must comply with the legal norms of the local government and inform players of the corresponding rules. These metaverse adhere to a unified standard interface and protocol, even ancient systems such as SandBox have Bridge Protocol leading to the main world.
+The Earth MetaVerse encompasses a myriad of distinct regions and parallel worlds, each aligning with the legal norms of their originating governments and informing players of the applicable rules. These MetaVerses adhere to a set of unified standard interfaces and protocols. Even legacy systems like the _**ancient SandBox**_ are connected to the mainverse through the Bridge Protocol.
 
-The main types of metaverse are:
+The primary categories of MetaVerses include:
 
-**Digital Twin Metaverse:** A digital copy of the Earth where everything strictly follows the physical and legal systems of the Earth, and is even a 1:1 reference. This can be understood as an eternal digital Earth, where all skills and characters can be inherited and brought to any metaverse.
 
-**Magic Parallel Metaverse:** A virtual world for gaming players where there is no need to follow the physical laws of the Earth. Here, you can become a magical monster with infinite magic power. This world cannot be inherited.
 
-**Sci-Fi Parallel Metaverse:** Strictly following the laws of science, but many scientific laws may be yet to be achieved. Therefore, this can be seen as a sci-fi metaverse with all kinds of imagination about the future. The world of the future metaverse cannot be inherited.
+* **Digital Twin MetaVerse:** A digital replica of Earth, where everything strictly adheres to Earth's physical laws, including its legal framework, on a 1:1 reference.This can be perceived as an everlasting digital Earth where all skills and personas can be carried over to any other MetaVerse.
 
-**Historical Parallel Metaverse:** Simulates the generation of multiple historical eras in the metaverse, where each parallel metaverse must comply with all restrictions and rules of the corresponding historicalera. You can choose which era of metaverse to go to. Historical parallel worlds cannot be inherited.
 
-**Dark Metaverse:** A decentralized public domain metaverse without rules that does not follow the Three Principles of the Metaverse, even having digital wormholes connecting all parallel metaverse. Here, countless incredible new applications happen, but also hides countless darkness and crime, where evil and justice coexist. Heaven Island is one of the largest third-party operating nodes of the public domain metaverse. The dark metaverse is parasitic in and hidden within the complex map of the public domain metaverse.
 
-In the dark metaverse, people cannot distinguish between virtual and real, and the map of the dark metaverse continues to expand with the development of the public domain metaverse, surpassing the digital twin metaverse and becoming one of the largest fully-realistic metaverse in the world.
+* **Magic Parallel MetaVerse:** A virtual realm for gamers where there's no need to adhere to Earth's physical laws. Here, you can transform into a magical creature wielding infinite magical powers. However, this world does not allow for inheritance.
+
+
+
+* **Sci-Fi Parallel MetaVerse**: This MetaVerse strictly follows scientific principles, even those that are yet to be realized, making it a place where one can explore a variety of imaginative sci-fi futures. The experiences in this future MetaVerse world are not inheritable.
+
+
+
+* **Historical Parallel MetaVerse:** These are simulations of various historical eras, with each parallel MetaVerse strictly adhering to the limitations and rules of its respective time period. You have the option to visit any historical MetaVerse that interests you. The experiences in these historical parallel worlds cannot be inherited.
+
+
+
+* **Dark MetaVerse:** A decentralized public domain MetaVerse without rules, disregarding the "Three Principles of the MetaVerse," and featuring digital wormholes that link all parallel MetaVerses. This realm is a hotbed for countless innovative applications and harbors a multitude of dark secrets, crimes, and a constant battle between evil and justice.
+
+Paradise Island is the largest third-party operational node of the public domain MetaVerse; AtomVerse is the most powerful decentralized Dark MetaVerse. AtomVerse is very special, as it is the only _**Decentralized**_ _**Quantum Computing AI autonomous MetaVerse.**_ Most of its nodes are hidden and parasitize within the complex network topology of the public domain MetaVerse.
+
+Within the Dark MetaVerse, the line between virtuality and reality blurs. Its domain has grown in tandem with the expansion of the public domain MetaVerse, now surpassing the Digital Twin MetaVerse in size and becoming one of the largest **Fully-Immersive Metaverses** globally.
