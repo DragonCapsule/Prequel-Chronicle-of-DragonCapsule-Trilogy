@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/martrix.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Data Mining (2068)
 
 As time entered the second half of the 21st century, **"Real Data"** has become the true gold mine.
