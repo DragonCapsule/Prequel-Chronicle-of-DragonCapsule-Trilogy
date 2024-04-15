@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/atomverse.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # The Road to Evolution (2102)
 
 The rapid development of Metaverse and AI has gradually formed _**two main construction paths**_ for the MetaVerse:
