@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/B6.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # AtomVerse - SevenFold（2045）
 
 _**The "AtomVerse" is as its name suggests, a dark MetaVerse deconstructed down to the atomic level.**_&#x20;
