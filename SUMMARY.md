@@ -87,6 +87,7 @@
 * [Metaverse flourishes (2100)](di-san-juan.metaerver-grow/metaverse-flourishes-2100.md)
 * [The Ascendancy of Crypto Economy (2009-2109)](di-san-juan.metaerver-grow/the-ascendancy-of-crypto-economy-2009-2109.md)
 * [The Birth of The New God (2039)](di-san-juan.metaerver-grow/the-birth-of-the-new-god-2039.md)
+* [AtomVerse - SevenFold（2045）](di-san-juan.metaerver-grow/atomverse-sevenfold-2045.md)
 
 ## 14. Time Machine <a href="#di-san-juan.metaverse-timemechine" id="di-san-juan.metaverse-timemechine"></a>
 
