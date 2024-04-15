@@ -119,13 +119,15 @@ The god "King Arthur" of the AtomVerse created the "**SevenFold**" which are sev
 
 In Arthur's constructed **SevenFold**, each Realm represents a state of existence, different layer of spiritual practice, and varying interpretations of the material and spiritual realms.&#x20;
 
-As a sorcerer of the human realm, **Xeno** once asked Arthur why the SevenFold corresponding to the highest realm in Buddhism, the F**orm Realm (Human Realm)**, would be a virtual human-like world filled with "artificial" intelligence. After a long silence, Arthur's face, enveloped in flowing black mist, suddenly became as smooth as a mirror.  In that mirror, Xeno glimpsed what seemed to be another herself...
+As a sorcerer of the human realm, **Xeno** once asked Arthur why the SevenFold corresponding to the highest realm in Buddhism, the **Form Realm (Human Realm)**, would be a virtual human-like world filled with "artificial" intelligence. After a long silence, Arthur's face, enveloped in flowing black mist, suddenly became as smooth as a mirror.  In that mirror, Xeno glimpsed what seemed to be another herself...
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/b1.jpeg" alt=""><figcaption><p>Arthur's Revelation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Arthur.jpg" alt=""><figcaption><p>The Fluctuations of Arthur</p></figcaption></figure>
 
 </div>
+
+
 
 ### The Fluctuations of Arthur
 
