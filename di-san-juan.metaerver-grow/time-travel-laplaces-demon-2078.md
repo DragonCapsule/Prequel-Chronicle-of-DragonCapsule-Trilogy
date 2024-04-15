@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/all-seeing-eye.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Time Travel - Laplace's Demon (2078)
 
 _**"Does time truly exist, and what does time truly entail...?"**_
@@ -12,7 +31,11 @@ The AtomVerse's core code is anchored in the decentralized global blockchain net
 
 In the early prototype design of the AtomVerse, the concept of "**time**" was actually defined and introduced as an "**event sequence.**" It is essentially the sequence in which events occur.
 
+<div align="left">
 
+<figure><img src="../.gitbook/assets/time.jpeg" alt=""><figcaption><p>T<strong>ime is Event Sequence.</strong></p></figcaption></figure>
+
+</div>
 
 For the AtomVerse system, which is blockchain-founded, all information is immutable, including the sequence of events - "time" . Yet, on a philosophical plane, Arthur maintains that time travel is not only possible but also achievable.
 
@@ -32,6 +55,8 @@ In contrast to retrograde time travel (**backward jump)**, the act of prograde t
 
 To facilitate this temporal travel, Arthur devised "Laplace's Demon." This machine, nigh-omnipotent in its capabilities, was crafted with the intent of possessing omniscience, using these knowledge to compute and predict all outcomes. To Laplace's Demon, the universe was akin to a vast, deterministic clock, with both the past and future etched in stone.  It feeds on calculations, tirelessly computing and verifying the events of the past and future.
 
+<figure><img src="../.gitbook/assets/all-seeing-eye.jpeg" alt=""><figcaption><p><strong>Laplace's Demon - All-Seeing-Eyes</strong></p></figcaption></figure>
+
 Each **prograde leap by Laplace's Demon** induced vast tremors throughout the AtomVerse, for stepping into the future would alter the present, and any change in the present would ripple into the future, triggering immense iterative computations.  ensuring a seamless integration and smooth transition between the known realities and the uncharted territories of time.
 
 To avert such AtomVerse tremors, Laplace's Demon refined its algorithms. Post prograde jump, the newly bifurcated parallel universe would  generate a finite past from the point of divergence, while simultaneously unfolding an infinite future, thus becoming a complete parallel universe in its own right.
@@ -46,6 +71,12 @@ Not that he didn't want to know the answer, but the moment this thought emerged,
 
 Perhaps infinite free will is an untouchable cyclical curse for all creators!
 
-The AtomVerse forks into infinite "parallel universes,"  resembling a boundless, colossal _**Directed Acyclic Graph (DAG),**_ endlessly evolving and stretching through the fabric of multidimensional space-time.
+The AtomVerse forks into infinite _"**Parallel Universes**,"_  resembling a boundless, colossal _**Directed Acyclic Graph (DAG),**_ endlessly evolving and stretching through the fabric of multidimensional space-time.
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/DAG1.jpg" alt=""><figcaption><p><em><strong>Directed Acyclic Graph (DAG)  - Parallel Universes</strong>,</em></p></figcaption></figure>
+
+</div>
 
 _**Note:** Directed acyclic graph (DAG), In graph theory, if a directed graph starting from any vertex cannot return to that point through several edges, then the graph is a directed acyclic graph._
