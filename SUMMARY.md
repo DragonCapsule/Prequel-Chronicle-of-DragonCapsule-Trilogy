@@ -88,6 +88,8 @@
 * [The Ascendancy of Crypto Economy (2009-2109)](di-san-juan.metaerver-grow/the-ascendancy-of-crypto-economy-2009-2109.md)
 * [The Birth of The New God (2039)](di-san-juan.metaerver-grow/the-birth-of-the-new-god-2039.md)
 * [AtomVerse - SevenFold（2045）](di-san-juan.metaerver-grow/atomverse-sevenfold-2045.md)
+* [Möbius Circle (2048)](di-san-juan.metaerver-grow/moebius-circle-2048.md)
+* [Data Mining (2068)](di-san-juan.metaerver-grow/data-mining-2068.md)
 
 ## 14. Time Machine <a href="#di-san-juan.metaverse-timemechine" id="di-san-juan.metaverse-timemechine"></a>
 
