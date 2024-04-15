@@ -50,7 +50,7 @@ The modus operandi of _**RWDN**_ is straightforward; it operates as a P2P decent
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/B3.jpg" alt=""><figcaption><p>RWDN human biometric holographic scan</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/eyescaner1.jpg" alt=""><figcaption><p>RWDN human biometric holographic scan</p></figcaption></figure>
 
 </div>
 
