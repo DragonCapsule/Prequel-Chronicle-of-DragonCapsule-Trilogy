@@ -1,6 +1,20 @@
 ---
-cover: ../.gitbook/assets/DC-logo-whole的副本.png
+cover: ../.gitbook/assets/fansheng.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Metaverse Flourishes (2100)
