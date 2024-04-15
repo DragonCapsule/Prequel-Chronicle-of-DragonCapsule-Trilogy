@@ -85,6 +85,7 @@
 ## 13. Metaverse flourishes <a href="#di-san-juan.metaerver-grow" id="di-san-juan.metaerver-grow"></a>
 
 * [Metaverse flourishes (2100)](di-san-juan.metaerver-grow/metaverse-flourishes-2100.md)
+* [The Ascendancy of Crypto Economy (2009-2109)](di-san-juan.metaerver-grow/the-ascendancy-of-crypto-economy-2009-2109.md)
 
 ## 14. Time Machine <a href="#di-san-juan.metaverse-timemechine" id="di-san-juan.metaverse-timemechine"></a>
 
