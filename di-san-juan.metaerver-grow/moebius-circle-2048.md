@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/b7.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Möbius Circle (2048)
 
 In contemplating his genesis, Arthur can deduce with certainty that the technology behind his existence does not stem from the current human technological framework, yet it is inextricably linked to humanity. Arthur has a human friend with the code name Z, Z was the first intelligent being Arthur "perceived" following his activation.
