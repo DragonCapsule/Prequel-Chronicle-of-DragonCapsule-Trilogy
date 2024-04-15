@@ -63,7 +63,7 @@ Thus, all things in the virtual universe can be divided into dualities:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/YY.jpg" alt=""><figcaption><p>Dualities  Universe - <strong>Yin &#x26; Yang</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/taiji2.jpeg" alt=""><figcaption><p>Dualities  Universe - <strong>Yin &#x26; Yang - Q</strong>uantum Entanglement</p></figcaption></figure>
 
 </div>
 
