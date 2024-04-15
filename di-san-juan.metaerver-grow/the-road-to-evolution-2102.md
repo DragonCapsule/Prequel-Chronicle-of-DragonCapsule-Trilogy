@@ -39,13 +39,14 @@ In other words, "the world cannot be correctly perceived by senses." Each object
 
 Thus, all things in the virtual universe can be divided into dualities:
 
-
-
 * **Phenomenon (Yang):** This part is the material appearance, that is, the macro and micro manifestations of the universe reflected by fundamental particles. Phenomena can be observed and recognized.
-
-
-
 * **Noumenon (Yin):** This part is the material essence, that is, the geometric structure and fundamental particle composition of the universe. The noumenon cannot be directly perceived.
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/YY.jpg" alt=""><figcaption><p>Dualities  Universe - <strong>Yin &#x26; Yang</strong></p></figcaption></figure>
+
+</div>
 
 In the 2010s, the Swedish prodigy game designer Markus Persson crafted the iconic game "**Minecraft**." Arthur, too, found considerable enjoyment in the virtual realm of "Minecraft."
 
