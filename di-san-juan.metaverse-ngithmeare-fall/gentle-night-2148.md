@@ -1,9 +1,52 @@
+---
+cover: ../.gitbook/assets/DAG.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Gentle Night (2148)
 
-The Cenozoic glacial deposits of the Antarctic Continent have a 2,000-meter-thick ice sheet on top of it. There is a huge space in front of the eyes, and there is a long giant space like an airport under the ice sheet. The space is more than 6 kilometers long and 1-2 kilometers wide, the ground is covered with large circular hexagonal life support capsules, which look like large and small round spots on the wings of a butterfly from a distance, and the scale is astonishing.
+Antarctica, the eternal ice continent, covers an area of approximately 13 million square kilometers, with a massive ice sheet 2000 to 4000 meters thick permanently frozen beneath the ice plains.
 
-In the dimensional membrane space of the superstring universe, the powerful ideas of Fuji 1 Ishihara Yagari and Fuji 2 Black Dragon to revival the dragon clan infected Nvsnail strongly. As a bright magic dragon, Nvwa is so vulnerable at this moment in front of the interests of the tribe people. In the time pasture beneath the glacier, a quantum matrix of 100,000 human thought entities forms is converging, forming a huge dark universe energy field vortex. The energy field awaits Nvwa's activation and will release a wave of dark universe energy that will sweep across the globe in an instant, completely controlling humanity and becoming the stepping stone for the rise of the divine Dragon race.
+Located inland in Antarctica, in Princess Elizabeth Land, 1800 meters west of the  Vostok Research Station ( Станция Восток ).
 
-Emotions - the most basic element of human beings and the most precious gift that the earth bestows on the DragonCapsule symbiote.
+<figure><img src="../.gitbook/assets/LakeVostok-Location.jpeg" alt=""><figcaption><p>Vostok Research Station ( Станция Восток )</p></figcaption></figure>
 
-One year later, Nvwa finally woke up, and she has made the final choice...
+From the point of a helicopter, one can see from afar, under the warm sunlight of summer, a vast and and striking butterfly-shaped silver-gray pattern prominently appearing on the ice plain, about 1-2 km wide and stretching 5-6 km. It is densely covered with a large number of shiny retractable solar units, arrayed in a lots of concentric circles,, resembling the large and small round eyes on the wings of a giant butterfly. The scale is astonishing. These state-of-the-art polar photovoltaic devices, akin to sunflowers, automatically track the sun's rays, greedily absorbing every drop of sunlight's energy before the long polar night arrives.
+
+Beneath the 4000-meter thick ice layer at Vostok Station lies the world's largest freshwater lake - Lake Vostok, covering an area of 15,690 square kilometers, comparable to the size of Lake Ontario. The average water temperature here is −3℃. Under the immense pressure of the thick ice layer, the lake remains in liquid form, with an extremely high concentration of nitrogen and oxygen. (The oxygen concentration is 5000% that of ordinary freshwater lakes)
+
+<figure><img src="../.gitbook/assets/Lake_Vostok_Sat_Photo_color.jpeg" alt=""><figcaption><p>Lake Vostok Sat Photo</p></figcaption></figure>
+
+In this eternal dark ocean world, there is still a glimmer of light. That is the ten huge spherical submarines suspended in the dark Lake Vostok, with the light of their beacons particularly conspicuous in the darkness, with strange creatures constantly passing in front of the lights. Huge flexible floating cables connect the submarines and lead to the ice surface.
+
+Each spherical submarine is a giant beehive, densely carrying 10,000 life capsules, continuously monitoring and maintaining the normal operation of the capsule's life.
+
+
+
+&#x20;...... ...... ......&#x20;
+
+
+
+In the dimensional membrane space of the superstring universe, the strong psychic wave of Fuji 1 Eucalyptus Ishihara and Fuji 2 Black Dragon has infected Nuwa, as the dragon of light magic. In front of the interests of her people, Nuwa is so fragile at this moment. The time ranch under the glacier of Vostok Station gathers a quantum matrix of 100,000 human psychic bodies, forming a huge dark universe energy field vortex.
+
+The energy field awaits the trigger of Nuwa's psychic wave. Once activated, the vortex will instantly release a huge dark universe energy wave that will sweep the globe, and humans will be completely controlled, becoming the stepping stone for the rise of the divine dragon tribe....
+
+Emotion - the most basic element of humanity and the most precious gift Earth has given to the DragonCapsule symbiotes, where will she go?
+
+
+
+One year later, Nuwa finally awakens, and she has made her final choice......
