@@ -4,7 +4,7 @@ cover: .gitbook/assets/1.jpeg
 coverY: 0
 ---
 
-# Prequel Chronicles Of DragonCapsule Trilogy
+# DragonCapsule Trilogy Prequel Chronicles
 
 
 
@@ -46,17 +46,17 @@ coverY: 0
 
 
 
-### **`.`**Official Links
+### **.**Official Links
 
 1\. Website: [https://www.dragoncapsule.xyz](https://www.dragoncapsule.xyz)
 
 2\. Twitter : [https://twitter.com/atomicalsDragon](https://twitter.com/atomicalsDragon)
 
-### **`.Chinese Version（中文版）`**
+### **.中文版**
 
 中文版 : [https://dragoncapsule.gitbook.io/history-zh](https://dragoncapsule.gitbook.io/history-zh)
 
-### **`.Japaness Version（`**日本語版**`）`**
+### **.**日本語版
 
 日本語版 <mark style="color:yellow;">:</mark>[ <mark style="color:yellow;">https://dragoncapsule.gitbook.io/history-jp</mark>](https://dragoncapsule.gitbook.io/history-jp)
 
