@@ -54,9 +54,9 @@ coverY: 0
 
 ### **.中文版**
 
-中文版 : [https://dragoncapsule.gitbook.io/history-zh](https://dragoncapsule.gitbook.io/history-zh)
+&#x20;[https://dragoncapsule.gitbook.io/history-zh](https://dragoncapsule.gitbook.io/history-zh)
 
 ### **.**日本語版
 
-日本語版 <mark style="color:yellow;">:</mark>[ <mark style="color:yellow;">https://dragoncapsule.gitbook.io/history-jp</mark>](https://dragoncapsule.gitbook.io/history-jp)
+[ <mark style="color:yellow;">https://dragoncapsule.gitbook.io/history-jp</mark>](https://dragoncapsule.gitbook.io/history-jp)
 
