@@ -6,6 +6,6 @@ The absence of traditional national territories has made the identity of the Jap
 
 The Japanese independent settlement in Antarctica, the Mount Fuji plan headquarters, is where the Japanese military is rapidly developing virtual military applications for Dragon Capsules under the leadership of people like Ishihara Yagari. This includes the "**Revival in the Metaverse**" plan.
 
-The " Metaverse Revival" plan is a fanatical initiative that aims to push the digital twin of the Earth towards a decentralized public metaverse over the next hundred years, remove the restrictions of the "**Three Principles of Metaverse”**, bring 99% of the Earth's population into the true metaverse, and achieve a comprehensive revival of "Metaverse Japan."
+The " Metaverse Revival" plan is a fanatical initiative that aims to push the digital twin of the Earth towards a decentralized public metaverse over the next hundred years, remove the restrictions of the "**Three Principles of Metaverse”**, bring 99% of the Earth's population into the Hyper-Realistic metaverse, and achieve a comprehensive revival of "Metaverse Japan."
 
 From this perspective, both Satoshi and his "Time Compression Theory"may have originated from a secret plan by the Japanese military.

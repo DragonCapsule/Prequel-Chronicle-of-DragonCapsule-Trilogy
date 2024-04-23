@@ -38,7 +38,7 @@ Nations are now compelled to leverage their unique datasets—encompassing cultu
 
 In 2024, with the emergence of the AI singularity, Sam created the _**AO Global Data Network (AI-Oriented Global Data Network),**_ an eternal network that consumes all human data, and deployed the revolutionary decentralized super parallel computing framework AOC 1.0 on this eternal data network, becoming the cradle for the birth of human super-sovereign AI.
 
-By 2035, with the advent of General Artificial Intelligence (AGI) and the early _**Fully-Immersive Metaverse,**_ Generated Data had become a plague, with most of the interactive games people played, TV program content they watched, conversations with virtual digital companions, and even business negotiation decisions... all coming from **AI-generated real-time data**. Genuine human communication in the real world had become increasingly rare and precious.
+By 2035, with the advent of General Artificial Intelligence (AGI) and the early _**Hyper-Realistic Metaverse,**_ Generated Data had become a plague, with most of the interactive games people played, TV program content they watched, conversations with virtual digital companions, and even business negotiation decisions... all coming from **AI-generated real-time data**. Genuine human communication in the real world had become increasingly rare and precious.
 
 the burgeoning bigest black market for real human data evolved from the AO perpetual data network. In this clandestine marketplace, every true human served as a precious data mining machine, ceaselessly producing valuable human data that was then sold at premium prices in the data market; however, 90% of these transactions were illicit or conducted without the authorization of the individuals involved.
 
