@@ -46,7 +46,7 @@ The United Nations _**Data Privacy and Human Rights Commission**_ had passed a m
 
 In 2039, AO's early founding elder _**Oprog**,_ keenly seized this opportunity and launched the _**Real Data Network (RWDN)**_ resistance organization.&#x20;
 
-The modus operandi of _**RWDN**_ is straightforward; it operates as a P2P decentralized network of genuine human data. Behind each node lies a human miner (HN). At irregular intervals (3 hours, 2 days, 1 week, or fortnightly), human miners undergo a comprehensive biometric scan by RWDN, encompassing _**Iris, Deep Video, and DNA (saliva, hair...) as the three pivotal biometric identifiers.**_ Only those human nodes that successfully pass three consecutive biometric scans are authorized to produce digital signed _**Real Human Data (RWHD)**_ that meets the requirements for various applications.
+The modus operandi of _**RWDN**_ is straightforward; it operates as a P2P decentralized network of genuine human data. Behind each node lies a human miner (HN). At random irregular intervals (3 hours, 2 days, 1 week, or fortnightly), human miners undergo a comprehensive biometric scan by RWDN, encompassing _**Iris, Deep Video, and DNA (saliva, hair...) as the three pivotal biometric identifiers.**_ Only those human nodes that successfully pass three consecutive biometric scans are authorized to produce digital signed _**Real Human Data (RWHD)**_ that meets the requirements for various applications.
 
 <div align="left">
 
