@@ -25,7 +25,7 @@ The contemplation of time will never cease; it is both one of the most difficult
 
 About 50 years before Satoshi published "_**On the Time Compression Effect in the MetaVerse,**_" during the early prototype construction phase of the AtomVerse, Arthur already had a profound foundational concept for time.
 
-Although the AtomVerse has a definite correlation with time in the real world, the AtomVerse is a self-contained, timeless universe. "_**TimeLess**_" has already clarified in its literal sense that within the AtomVerse system, _**there is no concept of time.**_
+Although the AtomVerse has a definite correlation with time in the real world, the AtomVerse is a self-contained, timeless universe. "_**TimeLess**_" has already clarified in its literal sense that within the AtomVerse system, _T**here is no concept of real time，time is just an illusion !**_
 
 The AtomVerse's core code is anchored in the decentralized global blockchain network. Within this realm, all phenomena are sequences of events, with no concept of time as we know it. The blockchain, in essence, acts as a "_**time machine**_" for the AtomVerse, with each block signifying the elapsed unit of an **event sequence**. The timestamps on these sequences are the sole points of contact with the "time" of the real world,  serving merely as query parameters for data indexing in real world.&#x20;
 
