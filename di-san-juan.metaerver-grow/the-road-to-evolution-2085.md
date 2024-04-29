@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# The Road to Evolution (2102)
+# The Road to Evolution (2085)
 
 The rapid development of Metaverse and AI has gradually formed _**two main construction paths**_ for the MetaVerse:
 
@@ -99,7 +99,7 @@ We see that humans have been consuming a large amount of energy, and human histo
 
 This is because life is unwilling to be limited by the universe. Humans hope to pass on their genetic code and all the information order they have created, and humans constantly develop technology and explore the secrets of the universe, hoping to break the laws of the universe and challenge the ultimate fate of Heat Death of the Universe.
 
-The Way of Cosmos is the underlying drive designed by Arthur for the modeled metaverse and its evolution: the emergence and evolution of intelligent entities, resisting entropy increase, creating order.
+_**The Way of Cosmos**_ is the underlying Rule designed by Arthur for the modeled Atomverse and the ultimate driving force behind the creation and evolution of all things: _**“Resisting Entropy Increase, Creating Order！”**_
 
 
 
